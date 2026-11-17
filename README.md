@@ -1,8 +1,8 @@
-# Nate Puangpanbut: Advanced Process Control & Instrument Engineering Portfolio
+# Nate Puangpanbut: Control, Automation & Instrument Engineering Portfolio
 
 **Live site → [suraporn.github.io/Nate-Control-Website](https://suraporn.github.io/Nate-Control-Website/)**
 
-This is my portfolio as an advanced process control and instrument engineer. I have about 10 years of hands-on plant experience in DCS/PLC systems, control and interlock design, PID tuning, advanced process control, HVAC and field instrumentation.
+This is my portfolio as a control, automation and instrument engineer. I have about 10 years of hands-on plant experience in DCS/PLC systems, control and interlock design, PID tuning, advanced process control, HVAC and field instrumentation.
 
 ## What's on the site
 
