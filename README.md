@@ -38,7 +38,7 @@ Then open http://localhost:8000.
 ## Updating
 
 - **Add a project:** copy one of the `<div class="card case">` blocks in `home.html`.
-- **Update the résumé:** replace `files/resume.pdf`.
+- **Update the résumé:** replace `files/resume.pdf`, then bump the `?v=` number on its link in `home.html` so browsers fetch the new file.
 - **Style changes:** after editing `style.css`, bump the `?v=` number in its link.
 
 ## Contact
