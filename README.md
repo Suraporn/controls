@@ -1,5 +1,7 @@
 # Nate Puangpanbut: Advanced Process Control & Instrument Engineering Portfolio
 
+**Live site → [suraporn.github.io/Nate-Control-Website](https://suraporn.github.io/Nate-Control-Website/)**
+
 This is my portfolio as an advanced process control and instrument engineer. I have about 10 years of hands-on plant experience in DCS/PLC systems, control and interlock design, PID tuning, advanced process control, HVAC and field instrumentation.
 
 ## What's on the site
@@ -18,7 +20,8 @@ My data science portfolio is at [suraporn.github.io/Nate-DS-Website](https://sur
 Plain HTML and CSS, with no build step. It's hosted free on GitHub Pages.
 
 ```
-index.html        The whole site
+home.html         The whole site (single page)
+index.html        Redirects to home.html
 style.css         Styles
 images/           Profile photo, favicon
 files/resume.pdf  Downloadable résumé
@@ -34,7 +37,7 @@ Then open http://localhost:8000.
 
 ## Updating
 
-- **Add a project:** copy one of the `<div class="card case">` blocks in `index.html`.
+- **Add a project:** copy one of the `<div class="card case">` blocks in `home.html`.
 - **Update the résumé:** replace `files/resume.pdf`.
 - **Style changes:** after editing `style.css`, bump the `?v=` number in its link.
 
