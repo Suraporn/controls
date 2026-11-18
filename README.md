@@ -1,6 +1,6 @@
 # Nate Puangpanbut: Control, Automation & Instrument Engineering Portfolio
 
-**Live site → [suraporn.github.io/Nate-Control-Website](https://suraporn.github.io/Nate-Control-Website/)**
+**Live site → [suraporn.github.io/controls](https://suraporn.github.io/controls/)**
 
 This is my portfolio as a control, automation and instrument engineer. I have about 10 years of hands-on plant experience in DCS/PLC systems, control and interlock design, PID tuning, advanced process control, HVAC and field instrumentation.
 
@@ -13,7 +13,7 @@ It's a single page:
 - **Skills:** platforms, equipment, standards (IEC 61508/61511, Foundation Fieldbus) and project delivery.
 - **Education & training**, and a downloadable résumé.
 
-My data science portfolio is at [suraporn.github.io/Nate-DS-Website](https://suraporn.github.io/Nate-DS-Website/).
+My data science portfolio is at [suraporn.github.io/ds](https://suraporn.github.io/ds/).
 
 ## Built with
 
